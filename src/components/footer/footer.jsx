@@ -42,9 +42,6 @@ const Footer = () => {
                     <span className="icon">
                         <FaLinkedin />
                     </span>
-                    <div className="name">
-                    Designed and developed by : Rajneesh kumar
-                </div>
                 </div>
            
             </ContentWrapper>
