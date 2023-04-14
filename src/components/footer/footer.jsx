@@ -42,6 +42,7 @@ const Footer = () => {
                     <span className="icon">
                         <FaLinkedin />
                     </span>
+                    
                 </div>
            
             </ContentWrapper>
