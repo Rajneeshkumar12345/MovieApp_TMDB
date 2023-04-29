@@ -43,6 +43,11 @@ const Footer = () => {
             <FaLinkedin />
           </span>
         </div>
+        <div className="infoText">
+          <br></br>
+          <br></br>
+          <h3>Design and developed by :- Rajneesh Kumar</h3>
+        </div>
       </ContentWrapper>
     </footer>
   );
